@@ -52,11 +52,12 @@ sudo chmod +x install.sh
 sudo ./install.sh
 
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
-sudo apt install nodejs
+sudo apt install -y nodejs
 
 apt-get update
-apt-get install php-mbstring
+apt-get install -y php-mbstring
 
 apt-get update
-sudo apt-get install php7.2-xml
+sudo apt-get install -y php7.2-xml
+
 

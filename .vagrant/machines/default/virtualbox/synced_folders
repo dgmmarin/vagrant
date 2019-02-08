@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"nfsd":{"mount_options":["dmode=777","fmode=666"]},"guestpath":"/var/www/html","hostpath":"/home/daniel/projects/vagrant","disabled":false,"__vagrantfile":true}}}
